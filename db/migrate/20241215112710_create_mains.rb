@@ -4,7 +4,7 @@ class CreateMains < ActiveRecord::Migration[8.0]
       t.string :url
       t.string :title
       t.string :time
-      t.string :body
+      t.text :body
 
       t.timestamps
     end
