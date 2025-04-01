@@ -1,24 +1,8 @@
-# README
+# ScrapingApp
+Ruby on Rails を用いて作成された、スクレイピングを目的としたWebアプリです。
+# Usage
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://github.com/user-attachments/assets/b8397eac-fe63-4773-a235-9a6765f24c93
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Manual
+スクレイピングしたいURLを入力し、実行ボタンを押すだけです。
